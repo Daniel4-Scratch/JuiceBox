@@ -3,6 +3,8 @@
 # JuiceBox
 A Easy popup box for websites.
 
+[Run Example](https://daniel4-scratch.github.io/JuiceBox/Juicebox)
+
 Import JavaScript
 ```javascript
 import {juiceBox} from 'https://daniel4-scratch.github.io/JuiceBox/module/pack.js';
