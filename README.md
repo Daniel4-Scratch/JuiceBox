@@ -4,7 +4,8 @@
 A Easy popup box for websites.
 
 [Run Example](https://daniel4-scratch.github.io/JuiceBox/Juicebox)
-
+## Import
+<kbd>Download</kbd> `/module`
 Import JavaScript *JavaScript*
 ```javascript
 import {juiceBox} from 'https://daniel4-scratch.github.io/JuiceBox/module/pack.js';
@@ -24,5 +25,5 @@ Deploy Popup *HTML*
 <button id="jb-btn">Open Box</button>
 ```
 
-# Credits
+## Credits
 [Sahil Choudhary](https://www.clipartkey.com/upic/3131/) for the [Juice Box Clipart - Transparent Juice Box Clipart](https://www.clipartkey.com/view/JJTihJ_juice-box-clipart-transparent-juice-box-clipart/)
