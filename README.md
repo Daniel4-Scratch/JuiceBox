@@ -26,7 +26,10 @@ Deploy Popup *HTML*
 <button id="jb-btn">Open Box</button>
 ```
 
+### Download Assets
+
+<p align="center"><a href="https://daniel4-scratch.github.io/JuiceBox/docs/"><img src="https://daniel4-scratch.github.io/JuiceBox/docs/assets/completion.png" width="200"></a></p>
+
 ## Credits
 [Sahil Choudhary](https://www.clipartkey.com/upic/3131/) for the [Juice Box Clipart - Transparent Juice Box Clipart](https://www.clipartkey.com/view/JJTihJ_juice-box-clipart-transparent-juice-box-clipart/)
 
-<p align="center"><a href="https://daniel4-scratch.github.io/JuiceBox/docs/"><img src="https://daniel4-scratch.github.io/JuiceBox/docs/assets/completion.png" width="200"></a></p>
