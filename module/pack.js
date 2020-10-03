@@ -1,3 +1,10 @@
+
+/*
+JuiceBox JavaScript Ent
+Coded by Daniel
+Thanks to w3schools
+*/
+
 export function juiceBox() {
   // Fetch The Box
   var modal = document.getElementById("jb-box");
