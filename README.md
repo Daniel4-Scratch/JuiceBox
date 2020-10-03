@@ -5,15 +5,16 @@ A Easy popup box for websites.
 
 [Run Example](https://daniel4-scratch.github.io/JuiceBox/Juicebox)
 ## Import
-<kbd>Download</kbd> `/module`
+<kbd>Download</kbd> the `/module` folder. An add it to your website.
+
 Import JavaScript *JavaScript*
 ```javascript
-import {juiceBox} from 'https://daniel4-scratch.github.io/JuiceBox/module/pack.js';
-import {juiceBoxPopup} from 'https://daniel4-scratch.github.io/JuiceBox/module/pack.js';
+import {juiceBox} from 'module/pack.js';
+import {juiceBoxPopup} from 'module/pack.js';
 ```
 Import CSS *HTML*
 ```html
-<link rel="stylesheet" href="https://daniel4-scratch.github.io/JuiceBox/module/pack.css">
+<link rel="stylesheet" href="module/pack.css">
 ```
 Form Popup *JavaScript*
 ```javascript
