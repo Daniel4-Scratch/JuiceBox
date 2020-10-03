@@ -1,4 +1,4 @@
-<p align="center"><img src="docs/ClipartKey_1710185%20(1).png" width="100"> 
+<p align="center"><img src="docs/ClipartKey_1710185%20(1).png" width="100"> </p>
 
 # JuiceBox
 A Easy popup box for websites.
