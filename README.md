@@ -3,7 +3,7 @@
 # JuiceBox
 A Easy popup box for websites.
 
-[Run Example](https://daniel4-scratch.github.io/JuiceBox/Juicebox)
+[<kbd>Run Example</kbd>](https://daniel4-scratch.github.io/JuiceBox/Juicebox)
 ## Import
 <kbd>Download</kbd> the `/module` folder. An add it to your website.
 
