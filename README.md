@@ -5,19 +5,23 @@ A Easy popup box for websites.
 
 [Run Example](https://daniel4-scratch.github.io/JuiceBox/Juicebox)
 
-Import JavaScript
+Import JavaScript *JavaScript*
 ```javascript
 import {juiceBox} from 'https://daniel4-scratch.github.io/JuiceBox/module/pack.js';
 import {juiceBoxPopup} from 'https://daniel4-scratch.github.io/JuiceBox/module/pack.js';
 ```
-Import CSS
+Import CSS *HTML*
 ```html
 <link rel="stylesheet" href="https://daniel4-scratch.github.io/JuiceBox/module/pack.css">
 ```
-Form Popup
+Form Popup *JavaScript*
 ```javascript
 juiceBox() // Import it
 juiceBoxPopup("Hello!", "Hi my name it bob", "Copyright me") // Launch it
+```
+Deploy Popup *JavaScript*
+```
+<button id="btn">Open Box</button>
 ```
 
 # Credits
