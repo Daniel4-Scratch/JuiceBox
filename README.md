@@ -21,7 +21,7 @@ juiceBoxPopup("Hello!", "Hi my name it bob", "Copyright me") // Launch it
 ```
 Deploy Popup *HTML*
 ```html
-<button id="btn">Open Box</button>
+<button id="jb-btn">Open Box</button>
 ```
 
 # Credits
