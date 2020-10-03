@@ -1,8 +1,8 @@
 // Fetch The Box
-var modal = document.getElementById("myModal");
+var modal = document.getElementById("box");
 
 // Fetch the button
-var btn = document.getElementById("myBtn");
+var btn = document.getElementById("btn");
 
 // Get the close button
 var span = document.getElementsByClassName("close")[0];
