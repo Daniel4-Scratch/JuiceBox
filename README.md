@@ -28,3 +28,5 @@ Deploy Popup *HTML*
 
 ## Credits
 [Sahil Choudhary](https://www.clipartkey.com/upic/3131/) for the [Juice Box Clipart - Transparent Juice Box Clipart](https://www.clipartkey.com/view/JJTihJ_juice-box-clipart-transparent-juice-box-clipart/)
+
+<p align="center"><img src="/docs/assets/completion.jpg" width="200"></p>
