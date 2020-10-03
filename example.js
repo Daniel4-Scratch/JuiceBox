@@ -1,3 +1,11 @@
+/*
+JuiceBox JavaScript Ent
+Coded by Daniel
+Thanks to w3schools
+*/
+
+alert('This is an example file only!')
+
 // Fetch The Box
 var modal = document.getElementById("box");
 
