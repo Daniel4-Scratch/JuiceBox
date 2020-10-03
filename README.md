@@ -1,3 +1,5 @@
+<p align="center"><img src="docs/ClipartKey_1710185%20(1).png" width="100"> 
+
 # JuiceBox
 A Easy popup box for websites.
 
@@ -15,3 +17,6 @@ Form Popup
 juiceBox() // Import it
 juiceBoxPopup("Hello!", "Hi my name it bob", "Copyright me") // Launch it
 ```
+
+# Credits
+[Sahil Choudhary](https://www.clipartkey.com/upic/3131/) for the [Juice Box Clipart - Transparent Juice Box Clipart](https://www.clipartkey.com/view/JJTihJ_juice-box-clipart-transparent-juice-box-clipart/)
