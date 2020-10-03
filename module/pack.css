@@ -1,7 +1,7 @@
-body {font-family: Arial, Helvetica, sans-serif;}
 
 /* The Modal (background) */
-.box {
+.jb-box {
+  font-family: Arial, Helvetica, sans-serif;
   display: none; /* Hidden by default */
   position: fixed; /* Stay in place */
   z-index: 1; /* Sit on top */
@@ -16,7 +16,7 @@ body {font-family: Arial, Helvetica, sans-serif;}
 }
 
 /* Modal Content */
-.box-content {
+.jb-box-content {
   position: relative;
   background-color: #fefefe;
   margin: auto;
@@ -42,29 +42,29 @@ body {font-family: Arial, Helvetica, sans-serif;}
 }
 
 /* The Close Button */
-.close {
+.jb-close {
   color: white;
   float: right;
   font-size: 28px;
   font-weight: bold;
 }
 
-.close:hover,
-.close:focus {
+.jb-close:hover,
+.jb-close:focus {
   color: #000;
   text-decoration: none;
   cursor: pointer;
 }
 
-.box-header {
+.jb-box-header {
   padding: 2px 16px;
   background-color: #d9d9d9;
   color: white;
 }
 
-.box-body {padding: 2px 16px;}
+.jb-box-body {padding: 2px 16px;}
 
-.box-footer {
+.jb-box-footer {
   padding: 2px 16px;
   background-color: #d9d9d9;
   color: white;
