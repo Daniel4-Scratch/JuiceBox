@@ -19,7 +19,7 @@ Form Popup *JavaScript*
 juiceBox() // Import it
 juiceBoxPopup("Hello!", "Hi my name it bob", "Copyright me") // Launch it
 ```
-Deploy Popup *JavaScript*
+Deploy Popup *HTML*
 ```html
 <button id="btn">Open Box</button>
 ```
